@@ -10,7 +10,7 @@
 
 
 
-.drop-anim { animation: drop 2.5s infinite; }
+/* .drop-anim { animation: drop 2.5s infinite; }
 
 @keyframes drop {
 
@@ -68,4 +68,4 @@
   70%  { box-shadow: 0 0 0 0 hsla(0, 0%, 100%, 1); }
   100% { box-shadow: 0 0 0 15px transparent; }
 
-}
+} */
